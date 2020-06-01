@@ -1,0 +1,4 @@
+MAIL=example@outlook.fr
+PASSWORD=motdepasse
+CONNECT_URL=https://www.linkedin.com/login
+SEARCHPEOPLE_URL=https://www.linkedin.com/search/results/people/?keywords=
